@@ -97,7 +97,22 @@ use [twint](https://github.com/twintproject/twint) to scrape data
 |87|1|
 |175|1|
 
-- most frequently retweeted tweets
+#### oldest tweets
+
+|datetime|username|tweet|retweet|url|
+|:-:|:-:|:-:|:-:|:-:|
+|2020-02-25 15:22:56|six_miles_duck|วันพุธ 17.30 ลานพญานาค  #ธรรมศาสตร์และการชุมนุม|1|[link](https://twitter.com/Six_Miles_Duck/status/1232219412628791296)|
+|2020-02-25 16:02:46|paritchi|มากันให้รู้ว่าธรรมศาสตร์ไม่มีวันตาย #ธรรมศาสตร์และการชุมนุม #MakeThammasatGreatAgain  https://t.co/fDANNX6bYK|101|[link](https://twitter.com/paritchi/status/1232229437594193920)|
+|2020-02-25 17:29:15|prasitchai_k|แฟลชม็อบพรุ่งนี้(26ก.พ.) มธ. รังสิต ลานพญานาค 17.30น. หอการค้า อาคาร24 18.00น. มอ.ปัตตานี ตึกกิจกรรม(ตึกส้ม)16.30น. วลัยลักษณ์ ลานไทร 18.00น. มข. บึงสีฐาน 16.30น.  ศิลปากร วังท่าพระ ลาน ศร.3 17.00น. #ธรรมศาสตร์และการชุมนุม #UTCCเรือใบไม่ใช่เรือดำน้ำ #ขอกู้คืนเกียรติ #มขพอกันที  https://t.co/Msym2RPILl|96|[link](https://twitter.com/prasitchai_k/status/1232251203297218560)|
+|2020-02-25 17:49:01|prasitchai_k|'รัตนบัณฑิต'ชวนแสดงจุดยืนร่วมแสดงพลังต่อต้านเผด็จการ ผ่านแฮชแท็ก #รัตนบัณฑิตไม่เป็นมิตรเผด็จการ #RBAC  #สนท #SUT #นักศึกษารวมพลัง #ธรรมศาสตร์และการชุมนุม #UTCCเรือใบไม่ใช่เรือดำน้ำ #UTCCdemocacy #มอออตานีขยี้รอบที่สอง #ขอกู้คืนเกียรติ #มขพอกันที #เกิดจากสฤษดิ์แต่ไม่ขอเป็นสลิ่ม  https://t.co/Bs1Yv7jRpA|39|[link](https://twitter.com/prasitchai_k/status/1232256179012661248)|
+|2020-02-25 18:54:01|mikkyst1|#ธรรมศาสตร์และการชุมนุม|1|[link](https://twitter.com/mikkyst1/status/1232272534130675712)|
+|2020-02-25 19:01:53|anawilkonchua|#ผนงรจตกม #อภิปรายไม่ไว้วางใจรัฐบาล #ธรรมศาสตร์  #ธรรมศาสตร์และการชุมนุม  https://t.co/vxdHORXarC|14|[link](https://twitter.com/AnawilKonchua/status/1232274513053634561)|
+|2020-02-25 20:18:23|myiyhlcx|รันแท็กนี้กันค่ะ #ธรรมศาสตร์และการชุมนุม|1|[link](https://twitter.com/MyIyhlcx/status/1232293768184729605)|
+|2020-02-25 22:23:58|idwytdanm|พรุ่งนี้ มธ. นัดชุมนุมกันแล้ว  #อภิปรายไม่ใว้วางใจ #อภิปรายไม่ไว้วางใจDay2 #ธรรมศาสตร์และการชุมนุม  https://t.co/gm3ZkLrFEV|30|[link](https://twitter.com/IDWYTDANM/status/1232325369111420928)|
+|2020-02-25 23:38:04|mangpor_ka|มธ. เปลี่ยนแท้กแล้วนะ ใช้ #ธรรมศาสตร์และการชุมนุม|2|[link](https://twitter.com/mangpor_ka/status/1232344017804750848)|
+|2020-02-25 23:39:41|narakfrenchie|ประกาศ ประกาศ ถึงเวลาแล้วที่ลูกแม่โดมจะออกมาไล่เผด็จการ พรุ่งนี้นะ มธ. รังสิต #ธรรมศาสตร์และการชุมนุม  #ยุบพรรคอนาคตใหม่  #อภิปรายไม่ไว้วางใจรัฐบาล  https://t.co/Qf00GDWfYs|20|[link](https://twitter.com/NarakFrenchie/status/1232344425143001088)|
+
+#### most frequently retweeted tweets
 
 |datetime|username|tweet|retweet|url|
 |:-:|:-:|:-:|:-:|:-:|
@@ -136,7 +151,23 @@ use [twint](https://github.com/twintproject/twint) to scrape data
 |211|1|
 |232|1|
 
-- most frequently retweeted tweets
+#### oldest tweets
+
+|datetime|username|tweet|retweet|url|
+|:-:|:-:|:-:|:-:|:-:|
+|2020-10-16 16:10:02|uauajutatip|ย้ายมาแยกปทุมวัน เวลาเดิม ลงถนน! #16ตุลาไปราชประสงค์ #16ตุลาไปแยกปทุมวัน|37582|[link](https://twitter.com/uauajutatip/status/1317030029579087872)|
+|2020-10-16 16:11:37|humancanspeak|ไปปทุมวันกันหรอ #15ตุลาไปราชประสงค์ #16ตุลาไปราชประสงค์ #16ตุลาไปแยกปทุมวัน|31|[link](https://twitter.com/humancanspeak/status/1317030425886294018)|
+|2020-10-16 16:11:46|mybabytenten|ย้ายที่ค่ะ #16ตุลาไปแยกปทุมวัน|569|[link](https://twitter.com/mybabytenten/status/1317030464104800257)|
+|2020-10-16 16:12:02|yg24894395|#16ตุลาไปราชประสงค์ #16ตุลาไปแยกปทุมวัน|13|[link](https://twitter.com/YG24894395/status/1317030529137455105)|
+|2020-10-16 16:12:08|originality_man|#16ตุลาไปแยกปทุมวัน|8|[link](https://twitter.com/originality_man/status/1317030554500362240)|
+|2020-10-16 16:12:37|lycanz14|#16ตุลาไปแยกปทุมวัน|0|[link](https://twitter.com/Lycanz14/status/1317030679033491456)|
+|2020-10-16 16:12:38|onedaywellc|#16ตุลาไปราชประสงค์ #16ตุลาไปแยกปทุมวัน|1|[link](https://twitter.com/onedaywellc/status/1317030684091838466)|
+|2020-10-16 16:12:58|iam_jiw|แยกปทุมวันครับทุกคน!!  #16ตุลาไปแยกปทุมวัน|165|[link](https://twitter.com/iam_jiw/status/1317030767810076683)|
+|2020-10-16 16:13:00|warncc|แยกปทุมวัน ไปๆๆๆๆ #16ตุลาไปแยกปทุมวัน|2|[link](https://twitter.com/WARNCC/status/1317030774038691841)|
+|2020-10-16 16:13:03|originality_man|#16ตุลาไปแยกปทุมวัน|9|[link](https://twitter.com/originality_man/status/1317030787502415872)|
+
+
+#### most frequently retweeted tweets
 
 |datetime|username|tweet|retweet|url|
 |:-:|:-:|:-:|:-:|:-:|
