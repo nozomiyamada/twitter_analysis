@@ -71,3 +71,28 @@ use [twint](https://github.com/twintproject/twint) to scrape data
 |`trans_dest`|  |  |
 
 ## Exploratory data analysis
+
+### #ธรรมศาสตร์และการชุมนุม
+
+![#ธรรมศาสตร์และการชุมนุม](https://user-images.githubusercontent.com/44984892/120426112-ab858900-c399-11eb-897d-76faf00d2960.png)
+
+- total tweets : 17,656 
+- distinct users : 8,087
+
+|num of posts (per person)|num of people|
+|:-:|:-:|
+|1|5512|
+|2|1206|
+|3|494|
+|4|265|
+|5|115|
+|6|107|
+|7|80|
+|8|46|
+|9|42|
+|10|30|
+...
+|74|1|
+|86|1|
+|87|1|
+|175|1|
