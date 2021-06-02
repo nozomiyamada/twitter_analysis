@@ -7,12 +7,11 @@ use [twint](https://github.com/twintproject/twint) to scrape data
 ## CLI commands of `twint`
 
 - `twint -u username` - Scrape all the Tweets of a user (doesn't include retweets but includes replies).
-- `twint -u username -s pineapple` - Scrape all Tweets from the user's timeline containing pineapple.
 - `twint -s pineapple` - Collect every Tweet containing pineapple from everyone's Tweets.
+- `twint -u username -s pineapple` - Scrape all Tweets from the user's timeline containing pineapple.
 - `twint -u username --year 2014` - Collect Tweets that were tweeted before 2014.
 - `twint -u username --since "2015-12-20 20:30:15"` - Collect Tweets that were tweeted since 2015-12-20 20:30:15.
 - `twint -u username --since 2015-12-20` - Collect Tweets that were tweeted since 2015-12-20 00:00:00.
-- `twint -u username -o file.txt` - Scrape Tweets and save to file.txt.
 - `twint -u username -o file.csv --csv` - Scrape Tweets and save as a csv file.
 - `twint -u username -o file.json --json` - Scrape Tweets and save as a json file.
 
@@ -42,10 +41,10 @@ use [twint](https://github.com/twintproject/twint) to scrape data
 |`user_id`| str | user ID |
 |`username`| srt | username |
 |`name`| str | display name |
-|`place`|  | ? |
+|`place`| dict | location information e.g longitude, latitude |
 |`tweet`| str | tweet content |
 |`language`| str |auto-detected, `th` or `en` or `und`|
-|`mentions`|  | ? |
+|`mentions`| list of dict | list of mentions {`screen_name`, `name`,`id`} |
 |`urls`| list of str | embedded urls |
 |`photos`| list of str | embedded photos |
 |`replies_count`| int | num of replies |
@@ -64,7 +63,7 @@ use [twint](https://github.com/twintproject/twint) to scrape data
 |`user_rt_id`|  |  |
 |`user_rt`|  |  |
 |`retweet_id`|  |  |
-|`reply_to`| list of str |  |
+|`reply_to`| list of dict | list of repliers {`screen_name`, `name`,`id`} |
 |`retweet_date`|  |  |
 |`translate`|  |  |
 |`trans_src`|  |  |
