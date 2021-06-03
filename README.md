@@ -6,6 +6,8 @@ use [twint](https://github.com/twintproject/twint) to scrape data
 
 ## CLI commands of `twint`
 
+<details>
+
 - `twint -u username` - Scrape all the Tweets of a user (doesn't include retweets but includes replies).
 - `twint -s pineapple` - Collect every Tweet containing pineapple from everyone's Tweets.
 - `twint -u username -s pineapple` - Scrape all Tweets from the user's timeline containing pineapple.
@@ -15,6 +17,8 @@ use [twint](https://github.com/twintproject/twint) to scrape data
 - `twint -u username -o file.csv --csv` - Scrape Tweets and save as a csv file.
 - `twint -u username -o file.json --json` - Scrape Tweets and save as a json file.
 
+</details>
+
 ## collected tweets (`.json`)
 
 |hashtag|num of tweets|oldest|latest|size|
@@ -23,7 +27,7 @@ use [twint](https://github.com/twintproject/twint) to scrape data
 |#เกียมอุดมไม่ก้มหัวให้เผด็จการ|4,227|2020-02-25 19:44:42|2021-05-31 14:11:52|5.7MB|
 |#saveวันเฉลิม|86,219|2020-06-04 19:29:59|2021-06-02 03:46:23|107MB|
 |#16ตุลาไปแยกปทุมวัน|278,311|2020-10-16 16:10:02|2021-04-16 16:23:46|336MB|
-|#กูสั่งให้มึงอยู่ใต้รัฐธรรมนูญ|19,065|2020-11-17 00:01:28|021-05-08 09:45:02|24.5MB|
+|#กูสั่งให้มึงอยู่ใต้รัฐธรรมนูญ|19,065|2020-11-17 00:01:28|2021-05-08 09:45:02|24.5MB|
 |#25พฤศจิกาไปSCB|49,050|2020-11-24 22:25:13|2021-04-09 22:21:18|54.5MB|
 |#ม็อบ25พฤศจิกาทวงคืนสมบัติชาติ|823|2020-11-20 14:04:15|2020-11-30 23:10:21|1.1MB|
 |#ม็อบ2ธันวา|11,178|2020-11-19 20:31:19|2021-02-15 13:58:18|13.1MB|
@@ -72,6 +76,8 @@ use [twint](https://github.com/twintproject/twint) to scrape data
 ## Exploratory data analysis
 
 ### 1. #ธรรมศาสตร์และการชุมนุม
+
+<details>
 
 ![#ธรรมศาสตร์และการชุมนุม](https://user-images.githubusercontent.com/44984892/120426112-ab858900-c399-11eb-897d-76faf00d2960.png)
 
@@ -126,7 +132,11 @@ use [twint](https://github.com/twintproject/twint) to scrape data
 |2020-02-26 20:33:17|june16425|ขอพื้นที่ขำก่อนค่ะ555555 #ธรรมศาสตร์และการชุมนุม  https://t.co/bQd1awz6XH|42421|[link](https://twitter.com/june16425/status/1232659904751497216)|
 |2020-02-26 21:16:25|realnameismynx|ที่สงสัยคือธรรมศาสตร์เขาทำได้ไงวะ อุดมการณ์ที่แรงชิบหายเพื่อประชาธิปไตย หล่อหลอมนักศึกษาทุกคนเป็นหมื่นๆให้รับใช้ความถูกต้องได้ขนาดนี้อ่ะ 47ปีที่แล้วกับตอนนี้คือไม่เปลี่ยนเลย กูโครตยอมการปลูกฝังจิตสำนึกของสถาบันเขา ยาแรงไม่หยุด #ธรรมศาสตร์และการชุมนุม|40989|[link](https://twitter.com/realnameismynx/status/1232670757899001857)|
 
+</details>
+
 ### 4. #16ตุลาไปแยกปทุมวัน
+
+<details>
 
 ![#16ตุลาไปแยกปทุมวัน](https://user-images.githubusercontent.com/44984892/120428932-bee72300-c39e-11eb-84cb-f3efaabd6ca9.png)
 
@@ -180,3 +190,5 @@ use [twint](https://github.com/twintproject/twint) to scrape data
 |2020-10-16 19:21:50|8laryn|เซพพี่คนนี้เค้สด้วยนะคะ เห็นเค้ายืนขวางรถให้มาซักพักแล้ว #16ตุลาไปแยกปทุมวัน  https://t.co/KcmsHEFfbV|84489|[link](https://twitter.com/8laRyn/status/1317078297029734401)|
 |2020-10-16 19:25:12|vousjay2|ทุกคนอย่าให้คลิปนี้หายไป ขอร้อง ช่วยรีกันไปเยอะๆๆๆๆๆ ใครเซฟได้เซฟ เผื่อคลิปหายอีกกก #16ตุลาไปแยกปทุมวัน  https://t.co/jnc5NAve2Y|83345|[link](https://twitter.com/vousjay2/status/1317079142521688065)|
 |2020-10-16 19:42:08|liszukung|เชี่ยเอ๊ย คุณฐาปนีย์แม่งแนวหน้ามาก มีเสียงแว่วๆพูดอยู่ตลอด "ปิดตา ไม่ต้องห่วงพี่" กุอยากจะรักงานได้สักครึ่งนึงของเขา #16ตุลาไปแยกปทุมวัน  https://t.co/Xh8bzhD6ui|83260|[link](https://twitter.com/liszukung/status/1317083405461409792)|
+
+</details>
