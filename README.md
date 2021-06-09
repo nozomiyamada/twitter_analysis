@@ -79,7 +79,13 @@ use [twint](https://github.com/twintproject/twint) to scrape data
 
 <details>
 
-![#ธรรมศาสตร์และการชุมนุม](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/timeseries/%2316%E0%B8%95%E0%B8%B8%E0%B8%A5%E0%B8%B2%E0%B9%84%E0%B8%9B%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%A7%E0%B8%B1%E0%B8%99.png)
+#### time series
+
+![#ธรรมศาสตร์และการชุมนุม](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/timeseries/%23ธรรมศาสตร์และการชุมนุม.png)
+![#ธรรมศาสตร์และการชุมนุม-2](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/timeseries/%23ธรรมศาสตร์และการชุมนุม-2.png)
+
+- oldest tweet : 2020-02-25 15:22:56
+- peak : 2020-10-16, duration 2 days
 
 - total tweets : 17,656 
 - distinct users : 8,087
@@ -133,6 +139,19 @@ use [twint](https://github.com/twintproject/twint) to scrape data
 |2020-02-26 21:16:25|realnameismynx|ที่สงสัยคือธรรมศาสตร์เขาทำได้ไงวะ อุดมการณ์ที่แรงชิบหายเพื่อประชาธิปไตย หล่อหลอมนักศึกษาทุกคนเป็นหมื่นๆให้รับใช้ความถูกต้องได้ขนาดนี้อ่ะ 47ปีที่แล้วกับตอนนี้คือไม่เปลี่ยนเลย กูโครตยอมการปลูกฝังจิตสำนึกของสถาบันเขา ยาแรงไม่หยุด #ธรรมศาสตร์และการชุมนุม|40989|[link](https://twitter.com/realnameismynx/status/1232670757899001857)|
 
 </details>
+
+### 2. #16ตุลาไปแยกปทุมวัน
+
+<details>
+
+![#16ตุลาไปแยกปทุมวัน](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/timeseries/%231616ตุลาไปแยกปทุมวัน.png)
+![#16ตุลาไปแยกปทุมวัน-2](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/timeseries/%231616ตุลาไปแยกปทุมวัน-2.png)
+
+- oldest tweet : 2020-02-25 15:22:56
+- peak : 2020-10-16, duration 2 days
+
+</details>
+
 
 ### 4. #16ตุลาไปแยกปทุมวัน
 
