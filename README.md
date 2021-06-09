@@ -79,7 +79,7 @@ use [twint](https://github.com/twintproject/twint) to scrape data
 
 <details>
 
-![#ธรรมศาสตร์และการชุมนุม](https://user-images.githubusercontent.com/44984892/120426112-ab858900-c399-11eb-897d-76faf00d2960.png)
+![#ธรรมศาสตร์และการชุมนุม](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/timeseries/%2316%E0%B8%95%E0%B8%B8%E0%B8%A5%E0%B8%B2%E0%B9%84%E0%B8%9B%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%A7%E0%B8%B1%E0%B8%99.png)
 
 - total tweets : 17,656 
 - distinct users : 8,087
