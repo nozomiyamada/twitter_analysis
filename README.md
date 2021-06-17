@@ -844,5 +844,7 @@ frequent replyees
 |[@MatichonOnline](https://twitter.com/MatichonOnline)|9|
 |[@cocala7](https://twitter.com/cocala7)|9|
 
+visualization (same result, used 2 visualization tools)
+
 ![network1](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/network1.png)
 ![network2](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/network2.png)
