@@ -829,20 +829,35 @@ now, I tried `reply` instead of `retweet`
 - tweets contain reply_to : 460 (may `reply_to` multiple people)
 - total `replier-replyee` pairs : 522
 
+frequent repliers
+
+|replier|count|
+|:-:|:-:|
+|[@veishou1](https://twitter.com/veishou1)|63|
+|[@sahtitbkk](https://twitter.com/sahtitbkk)|37|
+|[@kamaladanvers](https://twitter.com/kamaladanvers)|24|
+|[@serene332](https://twitter.com/serene332)|11|
+|[@athena31102](https://twitter.com/athena31102)|11|
+|[@wskuru](https://twitter.com/wskuru)|11|
+|[@kaidee888](https://twitter.com/kaidee888)|10|
+|[@cocala7](https://twitter.com/cocala7)|9|
+|[@spectacud](https://twitter.com/spectacud)|8|
+|[@nengnen72682670](https://twitter.com/nengnen72682670)|8|
+
 frequent replyees
 
 |replyee|count|
 |:-:|:-:|
-|[@veishou1](https://twitter.com/veishou1)|34|
-|[@sahtitbkk](https://twitter.com/sahtitbkk)|27|
-|[@kamaladanvers](https://twitter.com/kamaladanvers)|14|
-|[@FreeYOUTHth](https://twitter.com/FreeYOUTHth)|12|
-|[@wskuru](https://twitter.com/wskuru)|11|
-|[@serene332](https://twitter.com/serene332)|11|
-|[@charoenpura](https://twitter.com/charoenpura)|10|
-|[@Maersk](https://twitter.com/Maersk)|10|
-|[@MatichonOnline](https://twitter.com/MatichonOnline)|9|
-|[@cocala7](https://twitter.com/cocala7)|9|
+|[@FreeYOUTHth](https://twitter.com/FreeYOUTHth)|16|
+|[@MatichonOnline](https://twitter.com/MatichonOnline)|16|
+|[@charoenpura](https://twitter.com/charoenpura)|14|
+|[@Maersk](https://twitter.com/Maersk)|13|
+|[@tanawatofficial](https://twitter.com/tanawatofficial)|11|
+|[@johnwinyu](https://twitter.com/johnwinyu)|9|
+|[@AmaratJeab](https://twitter.com/AmaratJeab)|8|
+|[@KhaosodOnline](https://twitter.com/KhaosodOnline)|8|
+|[@thestandardth](https://twitter.com/thestandardth)|7|
+|[@TSererak](https://twitter.com/TSererak)|7|
 
 visualization (same result, used 2 visualization tools)
 
