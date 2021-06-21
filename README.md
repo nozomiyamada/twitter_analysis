@@ -874,7 +874,8 @@ remove small cluster (< 3)
 - data : `#25พฤศจิกาไปSCB`
 - original tweets : 49,050
 - tokenized with `pythainlp`
-- removed stopwords e.g. ที่ และ
+- cleaning data by removing stopwords e.g. ที่ และ
+- average num of words per tweet (after cleaning) : 9.778
 
 > num of topics : 5
 
