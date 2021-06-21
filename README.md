@@ -861,5 +861,7 @@ frequent replyees
 
 visualization (same result, used 2 visualization tools)
 
+replyee (pink) → replier (blue)
+
 ![network1](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/network1.png)
 ![network2](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/network2.png)
