@@ -861,7 +861,32 @@ frequent replyees
 
 visualization (same result, used 2 visualization tools)
 
-replyee (pink) → replier (blue)
+replier (blue) → replyee (pink)
 
 ![network1](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/network1.png)
+
+remove small cluster (< 3)
+
 ![network2](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/network2.png)
+
+## topic model (LDA)
+
+- data : `#25พฤศจิกาไปSCB`
+- original tweets : 49,050
+- tokenized with `pythainlp`
+- removed stopwords e.g. ที่ และ
+
+> num of topics : 5
+
+|rank|topic 1||topic 2||topic 3||topic 4||topic 5||
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|1|พฤศจิกา|0.071|พฤศจิกา|0.284|พฤศจิกา|0.054|พฤศจิกา|0.086|พฤศจิกา|0.095|
+|2|ชุมนุม|0.025|ม็อบ|0.140|คน|0.025|นะคะ|0.064|ตำรวจ|0.048|
+|3|ตู้|0.016|รัฐประหาร|0.026|ทำ|0.014|อย่า|0.029|อี|0.026|
+|4|รถ|0.015|แกง|0.025|กลัว|0.012|ม็อบ|0.020|ทำ|0.024|
+|5|ข่าว|0.014|ต่อต้าน|0.021|รู้|0.010|คน|0.019|ทหาร|0.023|
+|6|ถนน|0.014|รถติด|0.016|เค้า|0.010|ช่วยกัน|0.016|ประชาชน|0.022|
+|7|ย้าย|0.013|พฤศจิกายน|0.008|ดี|0.008|ขอให้|0.013|เหี้ย|0.019|
+|8|คอนเทนเนอร์|0.013|กก|0.008|เรื่อง|0.008|ใส่|0.011|ขนาด|0.014|
+|9|ติด|0.013|ราษฎร|0.008|ม๊อบ|0.007|เกรียน|0.010|หรอ|0.013|
+|10|ประกาศ|0.012|ชุมนุม|0.007|สลิ่ม|0.007|ระวัง|0.010|ขน|0.013|
