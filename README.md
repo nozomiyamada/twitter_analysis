@@ -869,19 +869,37 @@ remove small cluster (< 3)
 
 ![network2](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/network2.png)
 
-## Semantic Analyses
+## Semantic Analyses & Text Classification
 
-- data : `#25พฤศจิกาไปSCB`
+### 1. LDA (Latent Dirichlet Allocation) topic modelling
+- unsupervised learning
+- can choose the number of categories
+- one data can belong to multiple categories
+- can extract "topic" words of each category
+
+### 2. TF-IDF vectorization + SVD + K-means
+- unsupervised learning
+- can choose the number of categories
+- one data belong only one category (K-means)
+- we cannot know which words represent the category well 
+- TF-IDF vectorize (unigram & bigram) 
+- SVD (singular value decomposition) : dimensionality reduction (to 50 dims)
+
+### 3. doc2vec (neural network)
+- 
+
+### `#25พฤศจิกาไปSCB`
+
+<details>
+
 - original tweets : 49,050
 - tokenized with `pythainlp`
 - cleaning data by removing stopwords e.g. ที่ และ
 - average num of words per tweet (after cleaning) : 9.778 words
 
+#### 1. LDA topic model
+
 > num of topics : 5
-
-### topic model : LDA (Latent Dilichlet )
-
-- can extract topic words of each categories
 
 |rank|topic 1||topic 2||topic 3||topic 4||topic 5||
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -897,11 +915,7 @@ remove small cluster (< 3)
 |10|ประกาศ|0.012|ชุมนุม|0.007|สลิ่ม|0.007|ระวัง|0.010|ขน|0.013|
 
 
-### TF-IDF vectorization + SVD (singular value decomposition) + K-means
-
-- TF-IDF vectorize (50 dims, unigram & bigram) & normalize (length=1) each tweet
-- clustering the tweets by K-means
-- we cannot know which words represent the category well 
+#### 2. TF-IDF + K-means
 
 > num of topics : 5, select 30 tweets at random
 
@@ -937,3 +951,5 @@ remove small cluster (< 3)
 |เอาเวลานี้ไปจับแก๊งกฎจักรวาลและกฎแรงดึงดูดเถอะค่ะ #25พฤศจิกาไปSCB  https://t.co/MirCXgiYGh|3|
 |@Mushin16 น่าจะโอนไปซัก2บาทนะคะ สงสารตอนเขาเปิดดูยอดเงิน 🤣🤣🤣👏👏👏 #ม็อบ17พฤศจิกา  #25พฤศจิกาไปSCB|2|
 |ชอบเอเนอจี้ว่ะ #25พฤศจิกาไปSCB|4|
+
+</details>
