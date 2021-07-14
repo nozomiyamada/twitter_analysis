@@ -861,6 +861,8 @@ frequent replyees
 
 visualization (same result, used 2 visualization tools)
 
+> reply
+
 replier (blue) → replyee (pink)
 
 ![network1](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/network1.png)
@@ -868,6 +870,9 @@ replier (blue) → replyee (pink)
 remove small cluster (< 3)
 
 ![network2](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/network2.png)
+
+> mention
+![network1-mention](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/network1-mention.png)
 
 ## Semantic Analyses
 
