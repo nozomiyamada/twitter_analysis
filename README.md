@@ -85,6 +85,8 @@ use [twint](https://github.com/twintproject/twint) to scrape data
 
 <details>
 
+![#ธรรมศาสตร์และการชุมนุม-trend](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/timeseries/%23ธรรมศาสตร์และการชุมนุม-trend.png)
+
 #### overview
 
 ![#ธรรมศาสตร์และการชุมนุม](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/timeseries/%23ธรรมศาสตร์และการชุมนุม.png)
@@ -92,7 +94,7 @@ use [twint](https://github.com/twintproject/twint) to scrape data
 ![#ธรรมศาสตร์และการชุมนุม-3](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/timeseries/%23ธรรมศาสตร์และการชุมนุม-3.png)
 ![#ธรรมศาสตร์และการชุมนุม-4](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/timeseries/%23ธรรมศาสตร์และการชุมนุม-4.png)
 
-- total tweets : 17,656
+- total scraped tweets : 17,656 / 61,100 (29%)
 - distinct users : 8,087
 - oldest tweet : 2020-02-25 15:22:56
 - peak : `2020-02-26`, `2020-08-10`, `2020-09-11`, `2020-09-19`
