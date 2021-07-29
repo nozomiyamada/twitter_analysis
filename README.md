@@ -832,10 +832,13 @@ use [twint](https://github.com/twintproject/twint) to scrape data
 - therefore, if we want the list of all retweeters, we must use `search tweets by query(hashtag)` instead
 - default search option **DOESN'T** give retweets, some complicated and time-spending methods are required
 
-now, I tried `reply` instead of `retweet`
+now, I tried `Reply` and `Quote Tweet` instead of `retweet`
 
 - data : `#25พฤศจิกาไปSCB`
 - original tweets : 49,050
+
+### REPLY
+
 - tweets contain reply_to : 460 (may `reply_to` multiple people)
 - total `replier-replyee` pairs : 522
 
@@ -871,7 +874,6 @@ frequent replyees
 
 visualization (same result, used 2 visualization tools)
 
-> reply
 
 replier (blue) → replyee (pink)
 
@@ -881,7 +883,14 @@ remove small cluster (< 3)
 
 ![network2](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/network2.png)
 
-> mention
+### QUOTE TWEET
+
+- quote & quoted tweets that contains the original hashtag : 9381
+- total `quoter-quotee` pairs : 9044
+
+![network_quotetweet](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/network_quotetweet.png)
+
+### MENTION
 
 ![network1-mention](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/network1-mention.png)
 
