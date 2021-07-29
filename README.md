@@ -885,7 +885,7 @@ remove small cluster (< 3)
 
 ### QUOTE TWEET
 
-- quote & quoted tweets that contains the original hashtag : 9381
+- quote & quoted tweets that contain the original hashtag : 9381
 - total `quoter-quotee` pairs : 9044
 
 ![network_quotetweet](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/network_quotetweet.png)
