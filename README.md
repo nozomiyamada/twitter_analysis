@@ -890,6 +890,23 @@ remove small cluster (< 3)
 
 ![network_quotetweet](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/network_quotetweet.png)
 
+frequent quotees
+
+|quotee|count|
+|:-:|:-:|
+|[@FreeYOUTHth](https://twitter.com/FreeYOUTHth)|320|
+|[@realkullllabcd](https://twitter.com/realkullllabcd)|263|
+|[@momo25402](https://twitter.com/momo25402)|208|
+|[@kugkigz](https://twitter.com/kugkigz)|171|
+|[@tanawatofficial](https://twitter.com/tanawatofficial)|168|
+|[@joe_black317](https://twitter.com/joe_black317)|164|
+|[@Moja29563076](https://twitter.com/Moja29563076)|158|
+|[@ThaiEnquirer](https://twitter.com/ThaiEnquirer)|131|
+|[@JKS05949033](https://twitter.com/JKS05949033)|116|
+|[@mensblack_](https://twitter.com/mensblack_)|116|
+
+![#25พฤศจิกาไปSCB_frequent](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/#25พฤศจิกาไปSCB_frequent.png)
+
 ### MENTION
 
 ![network1-mention](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/network1-mention.png)
