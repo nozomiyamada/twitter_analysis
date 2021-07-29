@@ -905,7 +905,7 @@ frequent quotees
 |[@JKS05949033](https://twitter.com/JKS05949033)|116|
 |[@mensblack_](https://twitter.com/mensblack_)|116|
 
-![#25พฤศจิกาไปSCB_frequent](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/#25พฤศจิกาไปSCB_frequent.png)
+![SCB_frequent](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/SCB_frequent.png)
 
 ### MENTION
 
