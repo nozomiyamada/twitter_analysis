@@ -960,6 +960,8 @@
 
 ![kuu_topics](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/kuu_topics.png)
 
+![kuu_topics_log](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/kuu_topics_log.png)
+
 > probability distribution of each tweet (examples)
 
 |tweet|topic|prob of 1|2|3|4|5|
