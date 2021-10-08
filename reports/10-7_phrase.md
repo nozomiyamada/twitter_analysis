@@ -153,8 +153,8 @@
 # `ให้มันจบที่รุ่นเรา`
 
 - 2020-01-02 18:02:49 ~ 2020-12-31 22:50:38
-- 12570 tweets
-- [file link (csv)](https://drive.google.com/file/d/1xqAoJJsJNRxnaRRBuMQciWNFDOfT1HYE/view?usp=sharing)
+- 12ม570 tweets
+- [file link (csv)](https://drive.google.com/file/d/1QlIlw2oG1peC0xfhP14Y67PqfgD9wmJR/view?usp=sharing)
 
 <details>
 
@@ -183,7 +183,7 @@
 |ม็อบ14ตุลา|68|ม็อบ(79) ตุลา(77) จบ(75) รุ่น(74) ขอให้(26) ประชาชน(18) นะคะ(13) ปลอดภัย(11) กษัตริย์(9) ประเทศ(8)|[2020-10-13 08:10:29](https://twitter.com/maximiko1/status/1315927879151095809)<br>[@maximiko1](https://twitter.com/maximiko1)<br><br>ใครไม่ไปกุไป ใครไปเจอกันที่นั่น เพื่ออนาคตของคุณและผม ให้มันจบที่รุ่นเรา #ม็อบ14ตุลา|[2020-10-13 09:29:21](https://twitter.com/fawithty_/status/1315947724882104320)<br>[@fawithty_](https://twitter.com/fawithty_)<br>5352 retweets<br><br>ให้มันจบที่รุ่นเรากันเถอะ #ม็อบ14ตุลา  https://t.co/qk3JCWqT7n|
 |whathappensinthailand|60|จบ(64) รุ่น(63) เผด็จการ(16) ประชาชน(12) นะคะ(12) ขีดเส้นตาย(11) ไล่(11) ขอให้(11) ช่วยกัน(8) ประชาธิปไตย(7)|[2020-08-14 12:21:29](https://twitter.com/kkdyyyy/status/1294247770136514562)<br>[@kkdyyyy](https://twitter.com/kkdyyyy)<br><br>ให้ทุกคนได้รู้ว่าประเทศไทยตอนนี้ มันแย่ขนาดไหน ให้มันจบที่รุ่นเรา  #WhatHappensinThailand  https://t.co/iyIpQhB8eg|[2020-08-14 18:38:30](https://twitter.com/wanwannxx/status/1294342650296823809)<br>[@wanwannxx](https://twitter.com/wanwannxx)<br>1569 retweets<br><br>ใครที่กำลังจะเลื่อนผ่านทวิตนี้เพียงเพราะมันอาจจะไม่ใช่ทวิตหวีดเมนเหมือนที่ผ่านๆมา อยากให้ลองหาอ่านดูว่าตอนนี้ประเทศเรามันวิกฤตถึงขั้นไหนแล้ว ในแท็กมีคนทำออกมาเป็นรูปให้อ่านได้อย่างง่ายๆเลย มาช่วยกันนะคะ เสียงของทุกคนมีความหมาย มันจะต้องจบที่รุ่นเรา. #WhatHappensinThailand|
 
-![ให้มันจบที่รุ่นเรา_hashtag](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/10_7_official/ให้มันจบที่รุ่นเรา_hashtag.png)
+![ให้มันจบที่รุ่นเรา_hashtag](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/10_7_phrase/ให้มันจบที่รุ่นเรา_hashtag.png)
 
 
 ## Topic Model
@@ -220,6 +220,6 @@
 
 > timeseries
 
-![ให้มันจบที่รุ่นเรา_topic](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/10_7_official/ให้มันจบที่รุ่นเรา_topic.png)
+![ให้มันจบที่รุ่นเรา_topic](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/10_7_phrase/ให้มันจบที่รุ่นเรา_topic.png)
 
 </details>
