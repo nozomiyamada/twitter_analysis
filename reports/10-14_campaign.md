@@ -103,7 +103,7 @@
 
 > timeseries
 
-![hamtaro_topic](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/phrase/hamtaro_topic.png)
+![hamtaro_topic](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/campaign/hamtaro_topic.png)
 
 
 > keywords : tweets with hashtag `#แฮมทาโร่`
@@ -138,7 +138,7 @@
 
 > timeseries
 
-![hamtaro_hashtag_topic](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/phrase/hamtaro_hashtag_topic.png)
+![hamtaro_hashtag_topic](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/campaign/hamtaro_hashtag_topic.png)
 
 
 </details>
@@ -285,7 +285,7 @@
 
 > timeseries
 
-![mopmunmin_hashtag_topic](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/phrase/mopmunmin_hashtag_topic.png)
+![mopmunmin_hashtag_topic](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/campaign/mopmunmin_hashtag_topic.png)
 
 
 </details>
@@ -375,7 +375,7 @@
 
 > timeseries
 
-![7wednesday_topic](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/phrase/7wednesday_topic.png)
+![7wednesday_topic](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/campaign/7wednesday_topic.png)
 
 
 </details>
@@ -465,7 +465,7 @@
 
 > timeseries
 
-![bentekuk_topic](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/phrase/bentekuk_topic.png)
+![bentekuk_topic](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/campaign/bentekuk_topic.png)
 
 
 </details>
