@@ -156,15 +156,15 @@
 
 # network
 
-> until 2020-07-19 21:00:09
+> 10 retweets : until 2020-07-19 21:00:09
 
 ![ถ้าการเมืองดี_network10](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/phrase/ถ้าการเมืองดี_network10.png)
 
-> until 2020-07-20 10:27:42
+> 100 retweets : until 2020-07-20 10:27:42
 
 ![ถ้าการเมืองดี_network100](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/phrase/ถ้าการเมืองดี_network100.png)
 
-> until 2020-08-31 23:24:11
+> 1000 retweets : until 2020-08-31 23:24:11
 
 ![ถ้าการเมืองดี_network1000](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/phrase/ถ้าการเมืองดี_network1000.png)
 
