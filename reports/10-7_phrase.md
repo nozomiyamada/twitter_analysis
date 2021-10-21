@@ -78,12 +78,19 @@
 # `ถ้าการเมืองดี`
 
 - 2020-01-01 15:13:16 ~ 2021-02-28 23:57:48
-- 126,041 tweets
+
+|||
+|:-:|:-:|
+|tweets that contain the phrase `ถ้าการเมืองดี` | __126,041__ |
+|quote tweets that contain the phrase `ถ้าการเมืองดี` | __20,457__ |
+|tweets that contain the hashtag `#ถ้าการเมืองดี` | __47,143__ |
+|both quote tweet and quoted tweet contain the hashtag `#ถ้าการเมืองดี` |  __2,128__ |
+
 - [file link (csv)](https://drive.google.com/file/d/1BQgGpH-X7UqK_q2W1dI-_ou4USKbDuSl/view?usp=sharing)
 
 <details>
 
-## frequent c0-hashtags & co-occurrent words
+## frequent co-hashtags & co-occurrent words
 
 |co-hashtag|count|frequent words|oldest|popular|
 |:-:|:-:|:-:|:-:|:-:|
@@ -146,6 +153,18 @@
 > timeseries
 
 ![ถ้าการเมืองดี_topic](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/phrase/ถ้าการเมืองดี_topic.png)
+
+# network
+
+> until 2020-07-19 21:00:09
+
+![ถ้าการเมืองดี_network10](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/phrase/ถ้าการเมืองดี_network10.png)
+
+> until 2020-07-20 10:27:42
+
+![ถ้าการเมืองดี_network100](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/phrase/ถ้าการเมืองดี_network100.png)
+
+> until 2020-08-31 23:24:11
 
 </details>
 
