@@ -1,12 +1,12 @@
-# `#วิ่งไล่ลุง`
+# `#saveอนาคตใหม่`
 
 2020-01-01 00:02:42 ~ 2021-02-28 23:03:07 
 
 |||
 |:-:|:-:|
-|tweets that contain the phrase `วิ่งไล่ลุง` | __22,575__ |
-|tweets that contain the hashtag `#วิ่งไล่ลุง` | __15,078__ |
-|quote tweets that contain the phrase `วิ่งไล่ลุง` | __2,985__ |
+|tweets that contain the phrase `saveอนาคตใหม่` | __22,575__ |
+|tweets that contain the hashtag `#saveอนาคตใหม่` | __15,078__ |
+|quote tweets that contain the phrase `saveอนาคตใหม่` | __2,985__ |
 
 ## frequent co-hashtags & co-occurrent words
 
@@ -33,7 +33,7 @@
 |#ข่าว|85|ข่าว(139) ลุง(133) วิ่งไล่(88) เดิน(42) เชียร์(40) คมชัด(23) ลึก(23) คึกคัก(16) คน(14) ธนาธร(12)|[2020-01-03 13:44:18](https://twitter.com/BTimes_ch3/status/1212988035127627776)<br>[@btimes_ch3](https://twitter.com/btimes_ch3)<br><br>“มนัญญา ไทยเศรษฐ์”เตรียมเข้าตรวจสอบสหกรณ์ออมทรัพย์ขนาดใหญ่ หลังได้รับการร้องเรียนว่าอาจมีการทุจริต #ทุจริต #สหกรณ์ออมทรัพย์ #ข่าว #misterban #วิ่งไล่ลุง   https://t.co/Hv0Ym6KBub|[2020-01-07 12:54:26](https://twitter.com/BTimes_ch3/status/1214425039375716352)<br>[@btimes_ch3](https://twitter.com/btimes_ch3)<br>10 retweets<br><br>“รสนา โตสิตระกูล”ติงรัฐบาลปล่อยให้โรงกลั่นกินฟรีค่าปรับปรุงคุณภาพน้ำมันถึง 47 สตางค์/ลิตร แต่กลับปล่อยให้ขึ้นราคาน้ำมัน 50 สตางค์/ลิตร พร้อมถามรัฐกำกับเอกชนเพื่อประโยชน์ของประชาชน หรือทุนกำกับรัฐกันแน่ #น้ำมัน #ข่าว #misterban #เดินเชียร์ลุง #วิ่งไล่ลุง   https://t.co/85WU0rLvLz|
 |#ฝุ่นpm25|85|ฝุ่น(110) ลุง(95) วิ่งไล่(67) เชียร์(23) กรุงเทพ(22) เดิน(20) รัฐบาล(18) คน(16) ทอง(15) โป๊ะแตก(12)|[2020-01-07 09:04:13](https://twitter.com/potch24k/status/1214367099629342720)<br>[@potch24k](https://twitter.com/potch24k)<br><br>#เดินเชียร์ลุง #วิ่งไล่ลุง เจอ #ฝุ่นPM25  เป็นอุปสรรคแล้ว|[2020-01-31 00:09:46](https://twitter.com/parisjpt/status/1222929911028965376)<br>[@parisjpt](https://twitter.com/parisjpt)<br>222 retweets<br><br>แฮชแท็กข่าว ม.ค. . •#1มกราบอกลาถุง •#ปิดเกาะ #saransarn2019 #สวัสดี  •#สาวน่าน •#มูนคาเฟ่ชั้นต่ำ •#WWIII #อิหร่าน •#โรตีสด •#PrayForAustralia •#ฝุ่นPM25 •#กราดยิงปล้นร้านทอง •#วิ่งไล่ลุง #เดินเชียร์ลุง •#สะพานจันทร์โอชา •#ไวรัสโคโรนาสายพันธุ์ใหม่2019 •#PrayForPrayuth|
 
-![วิ่งไล่ลุง_hashtag](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/event/วิ่งไล่ลุง_hashtag.png)
+![saveอนาคตใหม่_hashtag](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/event/saveอนาคตใหม่_hashtag.png)
 
 ## LDA
 
@@ -69,4 +69,4 @@
 
 > timeseries
 
-![วิ่งไล่ลุง_topic](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/event/วิ่งไล่ลุง_topic.png)
+![saveอนาคตใหม่_topic](https://raw.githubusercontent.com/nozomiyamada/twitter_analysis/main/graphs/event/saveอนาคตใหม่_topic.png)
